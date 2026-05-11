@@ -1,0 +1,20 @@
+# Virtual Environment (Isko push karne ki zaroorat nahi, sabke PC mein alag banta hai)
+.venv/
+venv/
+env/
+
+# Environment Variables (Isme tumhara secret key aur database password hai!)
+.env
+
+# Python Cache files (Faltu ki hidden files jo space khati hain)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings (Tumhari personal editor settings)
+.vscode/
+
+# OS generated files (Mac/Windows ki system files)
+.DS_Store
+Thumbs.db
